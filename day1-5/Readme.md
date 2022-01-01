@@ -1,3 +1,3 @@
 # 30DaysCodingChallenge
 
-This repository contains code of challenge by @arsh_goyal
+This repository contains problems 30DaysCodingChallenge given by @arsh_goyal
