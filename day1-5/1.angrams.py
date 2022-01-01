@@ -1,6 +1,6 @@
 import collections
 
-def Anagrams(words, n):
+def Anagrams(words):
     a = ord("a")
     d = collections.defaultdict(list)
     for word in words:
