@@ -17,5 +17,5 @@ if __name__ == "__main__":
     ans = Anagrams(words, n)
     for grp in sorted(ans):
         for word in grp:
-            print(word,end=' ')
+            print(word,end=" ")
         print()
